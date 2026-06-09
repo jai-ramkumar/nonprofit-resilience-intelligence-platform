@@ -326,8 +326,8 @@ investment advice.
 **Jai Balaji Ramkumar**
 Data Engineer · MS Data Science · Chicago, IL
 
-[LinkedIn](https://www.linkedin.com/in/jaibalaji-ramkumar) ·
-[Medium](https://medium.com/@jaibalaji)
+[LinkedIn](https://www.linkedin.com/in/jai-balaji-ramkumar/) ·
+[Medium](https://jai-balaji-ramkumar.medium.com/)
 
 ---
 
