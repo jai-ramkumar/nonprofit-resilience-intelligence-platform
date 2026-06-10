@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+pip-wheel-metadata/
+.installed.cfg
+*.egg-info
+.eggs/
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files - never commit raw or processed data
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.delta
+*.json
+*.xml
+*.xlsx
+*.xls
+*.zip
+*.gz
+*.tar
+*.tar.gz
+
+# Credentials and secrets
+.env
+.env.local
+.env.*.local
+*.env
+config/secrets.yaml
+config/secrets.json
+*.pem
+*.key
+*.cert
+credentials.json
+service_account.json
+
+# MLflow
+mlruns/
+mlflow.db
+artifacts/
+
+# Microsoft Fabric / Azure
+.azure/
+*.publishsettings
+appsettings.Development.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Distribution
+*.mo
+*.pot
+
+# Docs build artifacts
+docs/_build/
+site/
+
+# Sample data is committed - everything else is not
+!data/sample/
+!data/sample/**
