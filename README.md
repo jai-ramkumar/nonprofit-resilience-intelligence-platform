@@ -47,7 +47,7 @@ Most tools that combine IRS Form 990 data with Census indicators measure
 current organizational health as a snapshot. This platform measures trajectory.
 
 **Most tools forecast finances. This platform forecasts mission impact.**
-Rather than "revenue drops 18%", the output is "1,100 fewer children served
+Rather than "revenue drops 18%", the output is "1,100 fewer people served
 by Q3 2027."
 
 **Most tools assess individual organizations. This platform models ecosystem risk.**
